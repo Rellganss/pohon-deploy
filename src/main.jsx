@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "pohon-deploy/tree/:id",
+    path: "/pohon-deploy/tree/:id",
     element: <TreeDetail />,
   },
 ])

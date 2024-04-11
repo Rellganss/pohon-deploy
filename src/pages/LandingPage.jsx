@@ -28,7 +28,7 @@ const LandingPage = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {trees && trees.length > 0 ? (
             trees.map((tree) => (
-              <Link key={tree.id} to={`/tree/${tree.id}`} className="hover:underline">
+              <Link key={tree.id} to={`/pohon-deploy/tree/${tree.id}`} className="hover:underline">
                 <Card tree={tree} />
               </Link>
             ))
