@@ -1,5 +1,4 @@
-// LandingPage.jsx
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -8,10 +7,16 @@ import treesData from '../data/trees.json';
 
 const LandingPage = () => {
   const [trees, setTrees] = useState([]);
+  const cardContainerRef = useRef(null);
 
   useEffect(() => {
     setTrees(treesData);
   }, []);
+
+  const handleExploreClick = () => {
+    // Menggunakan scrollIntoView untuk melakukan scroll ke container kartu
+    cardContainerRef.current.scrollIntoView({ behavior: "smooth" });
+  };
 
   return (
     <div>
@@ -20,10 +25,11 @@ const LandingPage = () => {
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-4">Selamat Datang di Website Kami</h1>
           <p className="text-lg mb-8">Temukan informasi terbaru tentang pohon-pohon di sekitar Anda.</p>
-          <Link to="/explore" className="bg-blue-700 text-white px-6 py-3 rounded-full shadow-lg hover:bg-blue-600 transition duration-300 ease-in-out">Mulai Jelajahi</Link>
+          {/* Menggunakan handleExploreClick untuk menangani klik */}
+          <button onClick={handleExploreClick} className="bg-blue-700 text-white px-6 py-3 rounded-full shadow-lg hover:bg-blue-600 transition duration-300 ease-in-out">Mulai Jelajahi</button>
         </div>
       </div>
-      <div className="container mx-auto mt-8">
+      <div className="container mx-auto mt-8" ref={cardContainerRef}>
         <h1 className="text-3xl font-bold mb-4">Informasi Pohon</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {trees && trees.length > 0 ? (
