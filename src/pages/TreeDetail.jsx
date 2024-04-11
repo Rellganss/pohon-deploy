@@ -1,4 +1,3 @@
-import React from 'react';
 import { useParams } from 'react-router-dom';
 import treesData from '../data/trees.json';
 
@@ -15,7 +14,7 @@ const TreeDetail = () => {
       <div className="px-4 py-2">
         <h2 className="text-2xl font-bold mb-2">{tree.name}</h2>
         <p className="text-gray-600 mb-4">{tree.latinName}</p>
-        <img src={"/pohon-deploy/" + tree.image} alt={tree.name} className="w-full h-auto" />
+        <img src={"/" + tree.image} alt={tree.name} className="w-full h-auto" />
         <p className="text-gray-700 mt-4">{tree.description}</p>
       </div>
     </div>
