@@ -5,7 +5,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import App from './App';
 import './index.css';
 import TreeDetail from './pages/TreeDetail';
-import LandingPage from './pages/LandingPage';
 
 const router = createBrowserRouter([
   {
