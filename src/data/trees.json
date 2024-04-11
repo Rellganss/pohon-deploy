@@ -1,0 +1,73 @@
+
+[
+  {
+      "id": 1,
+      "name": "Pohon Jati",
+      "latinName": "Tectona grandis",
+      "image": "path/to/jati.jpg",
+      "description": "Pohon jati (Tectona grandis) adalah sejenis pohon yang termasuk dalam keluarga Lamiaceae."
+  },
+  {
+      "id": 2,
+      "name": "Pohon Mangga",
+      "latinName": "Mangifera indica",
+      "image": "path/to/mangga.jpg",
+      "description": "Pohon mangga (Mangifera indica) adalah sejenis pohon buah yang berasal dari Asia Tenggara."
+  },
+  {
+      "id": 3,
+      "name": "Pohon Pinus",
+      "latinName": "Pinus",
+      "image": "path/to/pinus.jpg",
+      "description": "Pohon pinus adalah sejenis pohon konifer yang banyak ditemukan di berbagai belahan dunia."
+  },
+  {
+      "id": 4,
+      "name": "Pohon Beringin",
+      "latinName": "Ficus benjamina",
+      "image": "path/to/beringin.jpg",
+      "description": "Pohon beringin (Ficus benjamina) adalah sejenis pohon yang sering ditemukan di daerah tropis dan subtropis."
+  },
+  {
+      "id": 5,
+      "name": "Pohon Ek",
+      "latinName": "Quercus",
+      "image": "path/to/ek.jpg",
+      "description": "Pohon ek adalah sejenis pohon daun-broad dari genus Quercus dan keluarga Fagaceae."
+  },
+  {
+      "id": 6,
+      "name": "Pohon Kelapa",
+      "latinName": "Cocos nucifera",
+      "image": "path/to/kelapa.jpg",
+      "description": "Pohon kelapa (Cocos nucifera) adalah sejenis pohon yang banyak ditemukan di daerah tropis."
+  },
+  {
+      "id": 7,
+      "name": "Pohon Akasia",
+      "latinName": "Acacia",
+      "image": "path/to/akasia.jpg",
+      "description": "Pohon akasia adalah sejenis pohon yang banyak ditemukan di Afrika, Australia, dan Asia."
+  },
+  {
+      "id": 8,
+      "name": "Pohon Cemara",
+      "latinName": "Pinus merkusii",
+      "image": "path/to/cemara.jpg",
+      "description": "Pohon cemara (Pinus merkusii) adalah sejenis pohon konifer yang sering ditemukan di daerah pegunungan."
+  },
+  {
+      "id": 9,
+      "name": "Pohon Bambu",
+      "latinName": "Bambusoideae",
+      "image": "path/to/bambu.jpg",
+      "description": "Pohon bambu (Bambusoideae) adalah sejenis pohon rumput yang banyak ditemukan di berbagai belahan dunia."
+  },
+  {
+      "id": 10,
+      "name": "Pohon Jambu",
+      "latinName": "Psidium guajava",
+      "image": "path/to/jambu.jpg",
+      "description": "Pohon jambu (Psidium guajava) adalah sejenis pohon buah yang berasal dari Amerika Tengah dan Amerika Selatan."
+  }
+]
