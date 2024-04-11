@@ -1,6 +1,5 @@
-// Main.jsx
 import React from 'react';
-import ReactDOM from 'react-dom/client'; // Import createRoot dari react-dom/client
+import ReactDOM from 'react-dom'; // Memperbaiki import dari react-dom
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
 import App from './App';
 import './index.css';
@@ -8,19 +7,19 @@ import TreeDetail from './pages/TreeDetail';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "pohon-deploy/",
     element: <App />,
   },
   {
-    path: "/tree/:id",
+    path: "pohon-deploy/tree/:id",
     element: <TreeDetail />,
   },
 ])
 
-
-// Render aplikasi menggunakan createRoot
-ReactDOM.createRoot(document.getElementById('root')).render(
+// Mengganti render menggunakan ReactDOM.render
+ReactDOM.render(
   <React.StrictMode>
     <RouterProvider router={router}/>
   </React.StrictMode>,
+  document.getElementById('root')
 );
