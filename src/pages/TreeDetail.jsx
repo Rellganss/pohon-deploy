@@ -6,7 +6,7 @@ const TreeDetail = () => {
   const tree = treesData.find(tree => tree.id === parseInt(id));
 
   if (!tree) {
-    return <p className="text-red-500">Pohon tidak ditemukan.</p>;
+    return <p className="text-red-500 text-center font-bold align-middle">Pohon tidak ditemukan.</p>;
   }
 
   return (

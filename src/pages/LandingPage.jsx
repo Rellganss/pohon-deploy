@@ -25,7 +25,7 @@ const LandingPage = () => {
         <div className="text-center">
           <h1 className="text-4xl font-bold mb-4">Selamat Datang di Website Kami</h1>
           <p className="text-lg mb-8">Temukan informasi terbaru tentang pohon-pohon di sekitar Anda.</p>
-          <button onClick={handleExploreClick} className="bg-[#1a4d2e] text-white px-6 py-3 rounded-full shadow-lg hover:bg-blue-600 transition duration-300 ease-in-out">Mulai Jelajahi</button>
+          <button onClick={handleExploreClick} className="bg-[#1a4d2e] text-white px-6 py-3 rounded-full shadow-lg hover:bg-gray-500 transition duration-300 ease-in-out">Mulai Jelajahi</button>
         </div>
       </div>
       <div className="container mx-auto mt-8" ref={cardContainerRef}>
