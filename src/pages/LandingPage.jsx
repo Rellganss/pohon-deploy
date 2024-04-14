@@ -14,7 +14,6 @@ const LandingPage = () => {
   }, []);
 
   const handleExploreClick = () => {
-    // Menggunakan scrollIntoView untuk melakukan scroll ke container kartu
     cardContainerRef.current.scrollIntoView({ behavior: "smooth" });
   };
 
