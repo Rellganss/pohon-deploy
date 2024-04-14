@@ -4,7 +4,7 @@
         "id": 1,
         "nama": "Meranti Kuning",
         "nama_latin": "Shorea Gibbosa",
-        "image": "assets/images/...",
+        "image": "assets/images/merantikuning.jfif",
         "deskripsi": "Sejenis pohon yang termasuk dalam keluarga Dipterocarpaceae. Memiliki bentuk pohon yang tinggi dengan batang lurus dan tegak. Daunnya berbentuk elips atau bulat telur dengan tepi yang rata dan ujung yang tumpul. Bunganya muncul dalam kelompok-kelompok kecil dan berwarna kuning.",
         "habitat": "Pohon ini tumbuh dengan baik di tipe tanah podzolik merah dan kuning dengan altitude di bawah 1300 mdpl dan curah hujan > 1000 mm per tahun. Tumbuh di berbagai habitat seperti hutan dataran rendah, hutan rawa gambut, hutan perbukitan, hutan kerangas, hutan rawa, hutan riparian, hutan pantai, dan hutan kapur dengan karakteristik yang berbeda dari setiap spesies. Sebaran meranti terbanyak terdapat di Pulau Sumatra yaitu 52 jenis, 34 jenis di antaranya ditemukan di hutan hujan dataran rendah. Selain itu, pohon jenis ini juga tersebar di Kalimantan, Maluku, dan Pulau Jawa. Spesies S. littoralis (Plahlar/Pelalar) merupakan spesies hampir punah yang hanya ada di Pulau Nusakambangan.",
         "manfaat": [
@@ -16,7 +16,7 @@
         "id": 2,
         "nama": "Meranti Merah",
         "nama_latin": "Shorea parvistipulata",
-        "image": "assets/images/...",
+        "image": "assets/images/merantimerah.jfif",
         "deskripsi": "Dikenal juga sebagai kawang daun merah, merupakan pohon besar yang dapat tumbuh hingga setinggi 70 meter dan memiliki diameter hingga 112 cm. Memiliki batangnya yang berkulit tipis bersisik dan daunnya yang besar dan tipis, berseling, sederhana, menyirip, serta memiliki tangkai daun dan permukaan bawah dengan sisik seperti amplas dan menghasilkan bunga berwarna kuning-merah muda dalam malai dan memiliki buah berwarna hijau-merah muda dengan tiga sayap panjang",
         "habitat": "Pohon ini tumbuh dengan baik di tipe tanah podzolik merah dan kuning dengan altitude di bawah 1300 mdpl dan curah hujan > 1000 mm per tahun. Tumbuh di berbagai habitat seperti hutan dataran rendah, hutan rawa gambut, hutan perbukitan, hutan kerangas, hutan rawa, hutan riparian, hutan pantai, dan hutan kapur dengan karakteristik yang berbeda dari setiap spesies. Sebaran meranti terbanyak terdapat di Pulau Sumatra yaitu 52 jenis, 34 jenis di antaranya ditemukan di hutan hujan dataran rendah. Selain itu, pohon jenis ini juga tersebar di Kalimantan, Maluku, dan Pulau Jawa. Spesies S. littoralis (Plahlar/Pelalar) merupakan spesies hampir punah yang hanya ada di Pulau Nusakambangan.",
         "manfaat": [
@@ -28,7 +28,7 @@
         "id": 3,
         "nama": "Jati Putih",
         "nama_latin": "Gmelina arborea",
-        "image": "assets/images/...",
+        "image": "assets/images/jatiputih.jfif",
         "deskripsi": "Pohon berukuran sedang hingga besar, biasanya tumbuh mencapai ketinggian antara 15-30 m. Batangnya lurus dan tegak dengan kulit yang halus dan berwarna abu-abu kecoklatan. Daunnya berbentuk bulat telur atau jantung dengan ujung runcing dan tepi bergerigi halus. Daunnya biasanya berwarna hijau terang dan tersusun secara bergantian di sepanjang cabangnya.",
         "habitat": "Pohon jati cocok untuk tumbuh di kawasan iklim tropis di Indonesia. Iklim tropis yang memiliki kondisi dan cuaca dengan curah hujan berikisar 1.200 hingga 2.000 mm per tahun dan dengan kelembaban 60% hingga 80% sangat mendukung bagi pertumbuhan jati. Ketinggian ideal bagi pertumbuhan jati ialah pada ketinggian 700 mdpl. Tanah yang sesuai bagi tanaman jati adalah tanah yang mempunyai kadar pH 6-8, memiliki aerasi yang baik, serta mengandung kapur dan fosfor, seperti jenis tanah lempung, lempung berpasir, dan liat berpasir. Di Indonesia, pohon jati umumnya tumbuh subur di hutan dataran rendah, hutan dataran tinggi, hutan pegunungan, hutan tanaman industri, lahan kering tidak produktif, lahan basah tidak produktif, dan lahan perkebunan.",
         "manfaat": [
@@ -44,18 +44,16 @@
         "id": 4,
         "nama": "Rambutan",
         "nama_latin": "Nephelium lappaceum",
-        "image": "assets/images/...",
+        "image": "assets/images/rambutan.jfif",
         "deskripsi": "Merupakan anggota keluarga Sapindaceae. Pohon ini dapat tumbuh hingga 10-12 meter dengan kulit rantai yang tipis dan berlapis tipis, memiliki daun hijau gelap dan bunga hijau-putih dan buah yang berwarna kuning kecoklatan, yang dikenal sebagai rambutan, yang memiliki berbagai warna yang berbeda, seperti merah atau kuning.",
         "habitat": "habitat pohon rambutan dapat tumbuh dengan baik pada tanah liat berlempung, yang kaya kandungan bahan organik, dengan kedalaman air tanah antara 100-150 cm. Selain itu, tanah juga harus memiliki sirkulasi udara dan pembuangan air yang baik. Curah hujan juga merupakan salah satu faktor penting bagi kelangsungan hidup tanaman rambutan. Intensitas air yang dikehendaki oleh pohon tersebut berkisar antara 1.500-2.500 mm/tahun. Meskipun, rambutan merupakan tanaman yang menghendaki air dalam jumlah yang cukup besar. Namun, iklim kering juga diperlukan untuk pembentukan tunas-tunas bunganya. Kebutuhan sinar matahari tanaman rambutan untuk fotosintesis, pembentukan bunga, dan buah, serta pemasakan buah untuk pohon tersebut antara 40 – 80%, jika terlalu terik maka perlu ditanami tanaman pelindung untuk mengurangi intensitas cahaya matahari. Tanaman tersebut dapat hidup dengan baik pada suhu antara 22°C -35°C. Pada suhu yang terlalu tinggi maupun terlalu rendah, pohonnya tidak dapat berproduksi secara optimal atau bahkan tidak dapat berproduksi sama sekali.",
-        "manfaat": [
-          "Buah rambutan memiliki manfaat untuk kesehatan, seperti menjadi sumber antioksidan yang kuat, meningkatkan sistem kekebalan tubuh, menjaga kesehatan kulit, mendukung kesehatan mata, menyehatkan jantung, meningkatkan pencernaan, dan menyuplai energi."
-        ]
+        "manfaat": "Buah rambutan memiliki manfaat untuk kesehatan, seperti menjadi sumber antioksidan yang kuat, meningkatkan sistem kekebalan tubuh, menjaga kesehatan kulit, mendukung kesehatan mata, menyehatkan jantung, meningkatkan pencernaan, dan menyuplai energi."
     },
     {
         "id": 5,
         "nama": "Cempedak",
         "nama_latin": "Artocarpus integer",
-        "image": "assets/images/...",
+        "image": "assets/images/cempedak.jpg",
         "deskripsi": "Spesies pohon dalam keluarga Moraceae. Pohonnya besar, selalu hijau, dan dapat tumbuh hingga setinggi 20 meter. Pohon ini berumah satu, dengan bunga jantan dan betina yang tumbuh di pohon yang sama. Buahnya berbentuk silinder hingga bulat, dengan kulit tipis dan kasar berwarna kehijauan, kekuningan hingga kecoklatan, dan berpola segi lima. Buahnya memiliki bau yang menyengat dan rasa yang mirip dengan nangka dan sukun dengan sedikit rasa durian. Bijinya juga dapat dimakan dan berbentuk bulat pipih atau memanjang, dengan panjang sekitar 2-3 cm",
         "habitat": "Pohon cempedak secara alami dapat dijumpai di ekosistem tropis seperti hutan hujan dataran rendah, baik primer maupun sekunder. Pohon jenis ini menyukai habitat yang terdapat musim hujan sepanjang tahun dengan musim kering yang tidak tegas. Selain itu, kawasan dengan ketinggian 1000 mdpl merupakan kawasan yang optimal bagi pertumbuhan pohon cempedak.\nPersebaran pohon cempedak meliputi Burma, Thailand, Semenanjung Malaysia, Jawa, Sumatera, Kalimantan, Sulawesi, Maluku, Riau, sebagian wilayah Jawa Barat, dan Papua Nugini (Muchlis dkk, 2017).",
         "manfaat": "Kayu dari pohon ini memiliki kelas kuat II setelah dilakukan uji mekanik. Pohon cempedak juga berpotensi dalam memperbaiki kualitas tanah karena banyak ditanami di kebun maupun pekarangan. Lalu buahnya, dijadikan tepung dan sari bahkan kerupuk yang berbahan dasar buah cempedak"
@@ -64,7 +62,7 @@
         "id": 6,
         "nama": "Durian",
         "nama_latin": "Durio",
-        "image": "assets/images/...",
+        "image": "assets/images/durian.jpg",
         "deskripsi": "Pohon ini dapat tinggi mencapai 35-45 m dan diameter mencapai 100 cm. Kulit batangnya kasar dan umumnya berwarna cokelat merah gelap. Buah durian memiliki ukuran dan bentuk yang bervariasi, dengan panjang mencapai 30-45 cm dan lebar 20-25 cm, dan berat antara 1,5-2,5 kg. Setiap buah berisi 1-5 biji yang diselimuti daging buah berwarna putih, krem, kuning atau kuning tua.",
         "habitat": "Durian (Durio spp.) adalah pohon buah tropis yang berasal dari wilayah Asia Tenggara, terutama ditemukan di negara-negara seperti Indonesia, Malaysia, Thailand, dan Filipina. Durian tumbuh subur di daerah dengan iklim tropis basah, biasanya di hutan hujan dataran rendah hingga ketinggian menengah.\nhabitat alami durian termasuk hutan primer dan hutan sekunder yang lembap dan kaya akan nutrisi. Mereka tumbuh baik di tanah dengan drainase yang baik dan paparan sinar matahari yang cukup. Durian juga dapat ditemukan di tepi sungai atau di daerah pinggiran hutan. Pohon durian memiliki batang yang tinggi dan kuat dengan cabang-cabang yang tersebar, dan mereka membutuhkan cukup ruang untuk tumbuh dengan baik.\nSelain di habitat alaminya, durian juga dibudidayakan secara luas di perkebunan dan kebun-kebun buah di daerah tropis. Durian sangat dihargai karena buahnya yang besar, berdaging, dan beraroma kuat, meskipun bau yang khas dari buah durian dapat menjadi kontroversial bagi sebagian orang.",
         "manfaat": "Durian, sering disebut sebagai 'raja buah-buahan' di Asia Tenggara, memiliki beragam manfaat, termasuk:\n\nSumber Gizi: Durian kaya akan nutrisi, termasuk vitamin C, vitamin B kompleks, potasium, serat, dan zat besi. Buah ini menyediakan energi dan nutrisi penting bagi tubuh.\n\nKesehatan Jantung: Durian mengandung senyawa-senyawa seperti serat, kalium, dan antioksidan, yang dapat membantu menjaga kesehatan jantung dengan mengatur tekanan darah, mengurangi risiko penyakit jantung, dan meningkatkan kesehatan sistem kardiovaskular.\n\nSistem Pencernaan: Kandungan serat dalam durian membantu meningkatkan pencernaan dan mencegah sembelit. Serat juga membantu menjaga kesehatan usus dan mengurangi risiko penyakit usus seperti divertikulosis.\n\nKesehatan Tulang: Durian mengandung kalsium, magnesium, dan fosfor, yang penting untuk kesehatan tulang dan gigi. Konsumsi durian secara teratur dapat membantu memperkuat tulang dan mencegah osteoporosis.\n\nSistem Imun: Kandungan vitamin C dan antioksidan dalam durian membantu meningkatkan sistem kekebalan tubuh, melindungi tubuh dari infeksi dan penyakit.\n\nKulit dan Kecantikan: Antioksidan dalam durian membantu melawan radikal bebas yang dapat merusak kulit dan menyebabkan penuaan dini. Konsumsi durian secara teratur juga dapat meningkatkan kelembapan kulit dan mengurangi risiko jerawat.\n\nMeskipun durian memiliki banyak manfaat bagi kesehatan, konsumsinya tetap harus dalam batas yang wajar karena tingginya kandungan gula dan kalori. Orang dengan alergi tertentu atau masalah kesehatan tertentu sebaiknya berkonsultasi dengan profesional medis sebelum mengonsumsi durian secara berlebihan."
@@ -73,7 +71,7 @@
         "id": 7,
         "nama": "Tarap",
         "nama_latin": "Artocarpus odoratissimus",
-        "image": "assets/images/...",
+        "image": "assets/images/tarap.png",
         "deskripsi": "Pohon ini dapat tinggi sekitar 25 m, memiliki daun yang berwarna hijau gelap dan berukuran 16-50 cm panjang dan 11-28 cm lebar yang serupa dengan daun pohon pisang. Buahnya memiliki aroma yang sangat kuat dan dianggap lebih baik rasa daripada pisang dan cempedak, berwarna kuning kecoklatan, berukuran 15-20 cm panjang dan 13 cm lebar, dan berat sekitar 1 kg.",
         "habitat": "Terap dapat tumbuh sejak daerah dekat pantai hingga ketinggian sekitar 1000 m dpl. Pohon ini menyenangi tanah liat berpasir dan wilayah dengan curah hujan cukup tinggi dan merata. Buah biasa didapati di awal musim hujan, antara Agustus hingga Januari bergantung pada lokasinya.",
         "manfaat": "Pohon ini terutama ditanam karena buahnya, yang dimakan dalam keadaan segar atau diolah sebagai kue. Buah terap harus segera dimakan dalam beberapa jam setelah dibuka, karena baunya yang harum cepat berkurang dan warnanya dapat berubah karena teroksidasi. Biji terap juga dapat dimakan setelah dipanggang atau direbus dengan garam."
@@ -82,7 +80,7 @@
         "id" : 8,
         "nama": "Jengkol",
         "nama_latin": "Archidendron pauciflorum",
-        "image": "assets/images/...",
+        "image": "assets/images/jengkol.jpg",
         "deskripsi": "Pohon ini dapat tinggi mencapai 18-25 meter dan memiliki tajuk yang menyebar dengan daun menyirip hingga 25 cm. Pohon ini dikenal dengan kulit kayunya yang halus keabu-abuan dan daun mudanya yang berwarna merah anggur dan dapat dimakan. Pohon ini juga digunakan untuk tujuan pengobatan, seperti memurnikan darah dan mengobati masalah kulit. Kulit pohonnya dapat digunakan untuk mewarnai sutra menjadi ungu dan cangkangnya untuk mencuci rambut. Pohon ini diperbanyak dengan biji dan menyukai tanah berpasir, laterit, atau tanah liat berpasir yang dikeringkan dengan baik.",
         "habitat": "Pohon jengkol tumbuh dengan mudah, hidup pada berbagai tipe tanah mulai dari dataran rendah hingga ketinggian 1.000 mdpl. Pada iklim tropis tumbuhan jengkol memerlukan cukup pasokan air serta hidup di lingkungan yang lembab. Tanaman jengkol memerlukan intensitas cahaya matahari yang cukup untuk menunjang pertumbuhannya. Pohon jengkol adalah jenis tanaman yang dapat beradaptasi hampir diseluruh wilayah tropis. Selain itu, tanaman ini dapat tumbuh secara liar, misalnya di pekarangan rumah atau areal persawahan. Oleh sebab itu, masyarakat yang membudidayakan jengkol umumnya tidak melakukan perawatan khusus. Pohon jengkol memiliki musim bunga setiap tahun, terutama pada Juli dan Agustus. Berkembang secara generatif melalui biji, namun juga bisa melalui vegetatif, yaitu melalui cangkok, okulasi dan sambungan.",
         "manfaat": "Jengkol terdiri dari berbagai vitamin, asam jengkolat, mineral, dan serat yang tinggi. Jengkol memiliki khasiat diuretic yang dapat membantu melancarkan pembuangan urine, dan hal ini sangat menguntungkan bagi penderita penyakit jantung koroner. Seratnya dapat melancarkan buang air besar. manfaat jengkol untuk kesehatan lainnya seperti mencegah penyakit diabetes atau kencing manis dikarenakan kandungan asam dan mineralnya. Jengkol juga terdapat glikosida, protein, karbohidrat, kalsium, fosfor, vitamin A dan B1, minyak atsiri, saponin, alkaloid, terpenoid, flavonoid, serta tanin yang berpotensi sebagai insektisida, larvasida, dan zat toksik terhadap wereng coklat. Ekstrak etanol kulit jengkol juga dapat dimanfaatkan sebagai antibakteri terhadap Streptococcus mutans dan Escherichia coli. Senyawa aktif yang terdapat dalam tumbuhan jengkol hampir selalu memiliki toksik pada dosis tinggi."
@@ -91,7 +89,7 @@
         "id": 9,
         "nama": "Tengkawang",
         "nama_latin": "Shorea pinanga",
-        "image": "assets/images/...",
+        "image": "assets/images/tengkawang.jfif",
         "deskripsi": "Pohon ini tumbuh hingga setinggi 45 m dengan diameter batang hingga 1,3 m, dahan setinggi 1,5 m dengan kulit kayu berwarna coklat hingga merah muda yang menjadi retak dan bersisik.",
         "habitat": "Pohon ini tumbuh dengan baik di tipe tanah podzolik merah dan kuning dengan altitude di bawah 1300 mdpl dan curah hujan > 1000 mm per tahun. Tumbuh di berbagai habitat seperti hutan dataran rendah, hutan rawa gambut, hutan perbukitan, hutan kerangas, hutan rawa, hutan riparian, hutan pantai, dan hutan kapur dengan karakteristik yang berbeda dari setiap spesies.",
         "manfaat": "Pohon tengkawang adalah bagian penting dari ekosistem hutan tropis. Mereka menyediakan habitat dan sumber makanan bagi berbagai spesies hewan, termasuk burung, mamalia, dan serangga."
@@ -100,7 +98,7 @@
         "id": 10,
         "nama": "Ketapang Kencana",
         "nama_latin": "Terminalia mantaly",
-        "image": "assets/images/...",
+        "image": "assets/images/ketapangkencana.jpg",
         "deskripsi": "Pohon berukuran sedang dalam keluarga pohon kayu timah, Combretaceae. Pohon ini berasal dari Madagaskar dan dikenal dengan daunnya yang besar dan mengkilap serta dedaunannya yang simetris dan berlapis-lapis.",
         "habitat": "Secara umum, pohon ketapang tumbuh di kawasan tropis terutama daerah tropis beriklim lembab.",
         "manfaat": "Ketapang kencana dapat digunakan dalam pengobatan tradisional untuk mengobati berbagai penyakit, termasuk gangguan pencernaan, penyakit kulit, dan demam serta sebagai  taman rumah dan kebun."
@@ -109,7 +107,7 @@
         "id": 11,
         "nama": "Tabebuya",
         "nama Latin": "Tabebuia",
-        "image": "assets/images/...",
+        "image": "assets/images/tabebuya.jfif",
         "deskripsi": "Genus pohon yang umumnya dikenal sebagai pohon hias berbunga. Pohon Tabebuia adalah pohon daun yang dapat tumbuh setinggi 20 hingga 30 kaki dan sering digunakan sebagai pohon spesimen tunggal atau sebagai aksen pada properti yang lebih besar.",
         "habitat": "Pohon Tabebuya (Tabebuia spp.) adalah tumbuhan yang berasal dari Amerika Tengah dan Selatan, tetapi sekarang telah tersebar luas di berbagai wilayah tropis dan subtropis di seluruh dunia.",
         "manfaat": "Tabebuya dikenal karena bunganya yang indah dan warna-warni, yang membuatnya populer sebagai tanaman hias di berbagai negara."
@@ -118,7 +116,7 @@
         "id": 12,
         "nama": "Kurma",
         "nama Latin": "Phoenix dactylifera",
-        "image": "assets/images/...",
+        "image": "assets/images/kurma.jpg",
         "deskripsi": "Pohon ini tumbuh lambat dan dapat mencapai usia lebih dari 100 tahun jika dipelihara dengan baik. Akarnya memiliki Pneumatodes, dan daunnya memiliki panjang 4-6 m, dengan duri di tangkai daun, dan menyirip, dengan sekitar 150 anak daun.",
         "habitat": "habitat alami pohon kurma mencakup dataran gurun, lembah sungai, serta oasis di sepanjang tepi sungai.",
         "manfaat": "Selain sebagai sumber buah yang lezat dan bernutrisi, pohon kurma juga memberikan manfaat lainnya. Daun-daunnya digunakan untuk berbagai keperluan, seperti atap rumah dan keranjang, sedangkan tandan buahnya digunakan sebagai bahan bakar."
@@ -127,7 +125,7 @@
         "id": 13,
         "nama": "Pakis Ekor Monyet",
         "nama Latin": "Dicksonia squarrosa",
-        "image": "assets/images/...",
+        "image": "assets/images/pakisekormonyet.jpg",
         "deskripsi": "Pohon ini memiliki batang hitam ramping yang sering dikelilingi oleh banyak pelepah coklat mati, tingkat pertumbuhannya yang cepat hingga 10-80 cm (4-31 inci) per tahun, dan mencapai ketinggian sekitar 6 m (20 kaki).",
         "habitat": "",
         "manfaat": ""
@@ -136,7 +134,7 @@
         "id": 14,
         "nama": "Salam",
         "nama Latin": "Syzygium polyanthum",
-        "image": "assets/images/...",
+        "image": "assets/images/salam.jpg",
         "deskripsi": "Spesies tanaman dari keluarga Myrtaceae yang berasal dari Indonesia, Indocina, dan Malaysia. Pohon ini dapat tumbuh hingga setinggi 25 meter dan digunakan dalam berbagai masakan di Asia Tenggara.",
         "habitat": "",
         "manfaat": ""
@@ -145,7 +143,7 @@
         "id": 15,
         "nama": "Sengon",
         "nama Latin": "Albizia chinensis",
-        "image": "assets/images/...",
+        "image": "assets/images/sengon.jpg",
         "deskripsi": "Sejenis pohon Leguminous yang merupakan anggota keluarga Fabaceae. Pohon ini dapat tumbuh hingga 30-45 meter dan memiliki diameter 70-140 cm.",
         "habitat": "Pohon sengon bisa hidup di ketinggian mencapai 1.800 mdpl.",
         "manfaat": "Pohon sengon mempunyai beragam manfaat dan kegunaan, seperti sebagai bahan baku pembuatan papan, peti mati, penyekat, dan lainnya."
@@ -154,7 +152,7 @@
         "id": 16,
         "nama": "Kapur",
         "nama Latin": "Dryobalanops beccarii",
-        "image": "assets/images/...",
+        "image": "assets/images/kapur.jfif",
         "deskripsi": "Merupakan bagian dari keluarga Dipterocarpaceae. Pohon ini merupakan salah satu jenis pohon yang paling banyak dijumpai dalam hutan campuran dipterocarp yang tidak diterokai hingga tinggi 700 meter di atas permukaan.",
         "habitat": "Kapur barus secara alami tumbuh dan berasal dari Indonesia, tepatnya di Sumatera Utara, Kecamatan Barus.",
         "manfaat": "Kapur barus memiliki banyak manfaat, seperti sebagai bahan baku obat herbal, bahan pewangi alami, dan bahan kosmetika alami."
@@ -163,7 +161,7 @@
         "id": 17,
         "nama": "Kecapi",
         "nama Latin": "Sandoricum koetjape",
-        "image": "assets/images/...",
+        "image": "assets/images/kecapi.jpg",
         "deskripsi": "Pohon  cepat yang dapat mencapai ketinggian hingga 150 kaki dan memiliki daun bergaris dan bunga berwarna merah muda atau kuning-hijau.",
         "habitat": "Kecapi dapat ditemukan di berbagai wilayah Indonesia, mulai dari Kalimantan hingga Papua.",
         "manfaat": "Kayu kecapi dapat digunakan sebagai bahan baku pembuatan furnitur dan kerajinan serta daging buahnya mengandung antioksidan dan vitamin C yang tinggi."
