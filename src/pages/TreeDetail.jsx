@@ -1,9 +1,10 @@
 import { useParams } from 'react-router-dom';
 import treesData from '../data/trees.json';
+import Button from '../components/button';
 
 const TreeDetail = () => {
-  const { id } = useParams();
-  const tree = treesData.find(tree => tree.id === parseInt(id));
+  const { name } = useParams();
+  const tree = treesData.find(tree => tree.nama === name);
 
   if (!tree) {
     return <p className="text-red-500 text-center font-bold">Pohon tidak ditemukan.</p>;
@@ -36,6 +37,7 @@ const TreeDetail = () => {
             )}
           </div>
         )}
+        <Button />
       </div>
     </div>
   );

@@ -8,7 +8,7 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<LandingPage />} />
-        <Route path="/tree/:id" element={<TreeDetail />} treesData={treesData} />
+        <Route path="/tree/:name" element={<TreeDetail />} treesData={treesData} />
       </Routes>
     </BrowserRouter>
   );

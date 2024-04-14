@@ -9,22 +9,22 @@ const Card = ({ tree }) => {
       return (
         <>
           {words.slice(0, 20).join(' ')}
-          <span className="text-blue-500 cursor-pointer"> Baca Selengkapnya...</span>
+          <span className="text-blue-500 cursor-pointer hover:underline"> Baca Selengkapnya...</span>
         </>
       );
     } else {
       return (
         <>
           {description} 
-          <span className="text-blue-500 cursor-pointer"> Baca Selengkapnya...</span>
+          <span className="text-blue-500 cursor-pointer hover:underline"> Baca Selengkapnya...</span>
         </>
       );
     }
   };
 
   return (
-    <div className="bg-white shadow-md rounded-md p-4">
-      <Link to={`/tree/${tree.id}`} className="cursor-pointer">
+    <div className="bg-white shadow-md rounded-md p-4 hover:shadow-[#1a4d2e] hover:scale-110">
+      <Link to={`/tree/${tree.nama}`} className="cursor-pointer">
         <img
           src={`/${tree.image}`}
           alt={tree.name}
