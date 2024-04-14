@@ -20,8 +20,9 @@ const LandingPage = () => {
   return (
     <div>
       <Header />
-      <div className="bg-gray-500 min-h-screen flex items-center justify-center">
-        <div className="text-center">
+      <div className="bg-gray-500 min-h-screen flex items-center justify-center relative">
+        <img src="/1.jpg" alt="Background" className="absolute inset-0 object-cover w-full h-full opacity-50" />
+        <div className="text-center relative z-10">
           <h1 className="text-4xl font-bold mb-4">Selamat Datang di Website Kami</h1>
           <p className="text-lg mb-8">Temukan informasi terbaru tentang pohon-pohon di sekitar Anda.</p>
           <button onClick={handleExploreClick} className="bg-[#1a4d2e] text-white px-6 py-3 rounded-full shadow-lg hover:bg-gray-500 transition duration-300 ease-in-out">Mulai Jelajahi</button>
